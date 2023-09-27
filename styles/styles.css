@@ -1,0 +1,29 @@
+.img-navbar{
+    height: 50px;
+    border-radius: 8px;
+}
+
+.navbar{
+    background-color: #83a1c0;
+}
+
+.features img{
+    height: 120px;
+}
+
+.Comentarios{
+    margin: 50px;
+}
+
+.planes{
+    background-color: #83a1c0;
+}
+
+.ConoceMas{
+    background-color: #83a1c0;
+    padding: 50px 0px;
+}
+
+footer{
+    background-color: #3e5f80;
+}
